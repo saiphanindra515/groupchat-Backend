@@ -1,0 +1,7 @@
+{
+    "name":"Chat-application",
+    "version":"0.1.0",
+    "description":"It is a chat-application with groupchat feature",
+    "title":"chat-app",
+    "url":"http://localhost:3000"
+}
